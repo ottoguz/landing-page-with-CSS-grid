@@ -1,0 +1,12 @@
+ <section class="area-2">
+        <div class="area-2--content">
+            <div class="bar"></div>
+            <h2>Introducing Vanilla Sweet<br>Cream Cold Brew - Sweet,<br>Creamy, Cold, Bold</h2>
+            <div class="area-2--text">
+                Just before serving our slow-steeped custom blend Starbucks®. Cold Brew Coffee is topped with a delicate float of house-made vanilla cream that cascades throughout the cup.
+            </div>
+            <a class="button" href="">learn more</a>
+        </div>
+        <div class="area-2--img1"></div>
+        <div class="area-2 --img2"></div>
+    </section>
